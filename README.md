@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Daily Contribution</h3>
+<h3 align="left">Skill</h3>
 
 ###
 
@@ -56,7 +56,8 @@
 
 ###
 
-<h3 align="left">Skill</h3>
+<h3 align="left">Daily Contribution</h3>
+
 
 ###
 
