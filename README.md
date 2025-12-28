@@ -1,66 +1,18 @@
-<h2 align="left">Passionate .NET C# Developer | Problem Solver & Innovator</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2Y2NDVuMmdxdnRmcXV6bmJsMjJydWNxcjZ6YjEwNG8wY21wOGkxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
-</div>
-
-###
-
-<h3 align="left">About Me</h3>
-
-###
-
-<p align="left">- Learning full-stack .NET development (C#, .NET Core, Entity Framework)<br>- Passionate about creating scalable web apps and APIs<br>- Currently exploring Azure, SQL Server, and modern frontend integration<br>- Open to collaborations and feedback on my projects!</p>
-
-###
-
-<h3 align="left">Contact</h3>
-
-###
-
-<p align="left">+91 9373570576<br>E-Mail :- dipakchande921@gmail.com<br>Linkedin : - www.linkedin.com/in/dipak-chande</p>
-
-###
-
-<h3 align="left">Social Media</h3>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="15" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="15" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="15" alt="whatsapp logo"  />
-</div>
-
-###
-
-<h3 align="left">Skill</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="78" alt="html5 logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="78" alt="css logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="78" alt="javascript logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="78" alt="c logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="78" alt="csharp logo"  />
-  <img width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="78" alt="mysql logo"  />
-</div>
-
-###
-
-<h3 align="left">Daily Contribution</h3>
+# 💫 About Me:
+Hi! I'm a passionate .NET developer with a recently completed graduation, skilled in building full-stack solutions.<br> I craft robust backends with C#, ASP.NET, Entity Framework, and MySQL, paired with modern frontend technologies.<br> Exploring open-source and always up for collaboration—let's build something awesome together! 🚀
 
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dipak-chande) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@dipak_chande_04) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dipak_chande_blog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dipakchande921@gmail.com) 
 
-<img src="https://raw.githubusercontent.com/dipak921/dipak921/output/snake.svg" alt="Snake animation" />
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dipak921&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dipak921&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipak921&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=dipak921&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
