@@ -106,11 +106,11 @@ Passionate Full-Stack .NET Developer with hands-on experience in developing scal
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+<a href="https://www.linkedin.com/in/dipak-chande/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME" target="blank">
+<a href="https://github.com/dipak921" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" alt="github" height="30" width="40" />
 </a>
 </p>
